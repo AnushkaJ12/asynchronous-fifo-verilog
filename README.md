@@ -7,3 +7,5 @@
   - Placement
   - Clock Tree Synthesis (CTS)
   - Routing
+
+<img width="1918" height="1026" alt="GDSII layout" src="https://github.com/user-attachments/assets/4f78865b-d04b-46b0-9b4a-cbae8660ad14" />
